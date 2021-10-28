@@ -1,8 +1,8 @@
     h1, p {
-        color:blue;
+        color:rgb(30, 255, 0);
         -ms-flex-align: center;
     }
 
     body {
-        background-color: black;
+        background-color: rgb(236, 14, 14);
     }
